@@ -1,0 +1,15 @@
+{
+  "name": "webspider",
+  "version": "1.0.0",
+  "description": "this is a simple webCrowler based on nodejs",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Miseng-w",
+  "license": "ISC",
+  "devDependencies": {
+    "path": "^0.12.7",
+    "fs": "^0.0.2"
+  }
+}
