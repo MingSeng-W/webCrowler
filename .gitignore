@@ -1,5 +1,4 @@
 .tern-project
 .idea
-
 node_modules/
 npm-debug.log
